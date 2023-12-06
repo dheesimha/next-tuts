@@ -44,3 +44,5 @@ export default function NavLinks() {
     </>
   );
 }
+
+// This is a demo function
